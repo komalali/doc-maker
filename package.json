@@ -1,0 +1,12 @@
+{
+    "name": "doc-maker",
+    "devDependencies": {
+        "@types/node": "^8.0.0",
+        "prettier": "^2.0.2"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^1.0.0",
+        "@pulumi/aws": "^1.0.0",
+        "@pulumi/awsx": "^0.18.10"
+    }
+}

@@ -1,0 +1,3 @@
+name: doc-maker
+runtime: nodejs
+description: Generate prettified docs using markdown or html
